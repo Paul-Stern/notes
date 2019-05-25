@@ -1,0 +1,4 @@
+# no org files
+*.org
+# emacs
+*~
